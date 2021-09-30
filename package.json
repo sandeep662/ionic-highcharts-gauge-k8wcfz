@@ -1,0 +1,21 @@
+{
+  "name": "ionic-highcharts-gauge",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "rxjs": "5.4.0",
+    "core-js": "2.4.1",
+    "zone.js": "0.8.12",
+    "highcharts": "6.0.6",
+    "typescript": "2.3.4",
+    "@angular/core": "5.2.4",
+    "@angular/http": "5.2.4",
+    "ionic-angular": "3.9.2",
+    "@angular/forms": "5.2.4",
+    "@angular/common": "5.2.4",
+    "@angular/compiler": "5.2.4",
+    "@angular/compiler-cli": "5.2.4",
+    "@angular/platform-browser": "5.2.4",
+    "@angular/platform-browser-dynamic": "5.2.4"
+  }
+}
